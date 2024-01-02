@@ -1,0 +1,15 @@
+public class LectureTwo {
+    public static void main(String[] args) {
+        //output ln means printint output in the next time.
+        System.out.println("Hello World second time.\n this isnt me?");
+        System.out.println("Hello java");
+        System.out.print("*\n**\n***\n****");
+    }
+
+    //Problem (print the pattern)
+    //* 
+    //** 
+    //***
+    //****
+}
+

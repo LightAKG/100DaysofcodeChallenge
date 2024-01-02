@@ -1,0 +1,24 @@
+class DayOne{
+    public static void main(String args[]){
+        System.out.println("Hello World");
+    }
+}
+// How is my code run?
+//1 compilation = source code(.java) -> compiler(JDK) -> Byte code (.class)
+//2 Execution 
+//byte code => JVM(java virtual machine) => native code
+
+//components of code 
+//1 function
+// void main(){
+
+//}
+
+//2 class
+// Class Main{
+//      void main(){
+    
+//}
+//}
+
+

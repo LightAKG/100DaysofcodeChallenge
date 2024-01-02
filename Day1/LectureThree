@@ -1,0 +1,41 @@
+import java.util.*;
+public class LectureThree {
+    public static void main(String[] args) {
+        //variables
+        // String name = "Monalisa bhfs";
+        // int age = 84;
+        // double price = 39.73;
+        // int a = 29;
+        // int b = 34;
+
+        // b = 20;
+        // name = "painting";
+
+        // int a = 10;
+        // int b = 20;
+        // int sum = a + b;
+        // System.out.println(sum);
+
+        // int mul = a * b;
+        // System.out.println(mul);
+
+        //input
+        Scanner sc = new Scanner(System.in);
+        // String name = sc.nextLine();
+
+        //NextInt()
+        //NextFloat()
+        // System.out.println(name);
+
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int sum = a + b;
+        System.out.println(sum);
+    }
+}
+//Data Types in Java
+//Java is a typed language = first declare type of variable then variable name
+
+//Types of Data 
+//Primitive Data Types - Basic data types (byte, short, char, Boolean, int, long, float, double)
+//Non-Primitive Data Types - Can be modified (String, array, class, object, Interface)

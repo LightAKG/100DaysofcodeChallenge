@@ -1,0 +1,29 @@
+To use collection in java we can import two things
+1. import java.util.*;
+2. import java.util.Collections;
+
+usually these collection has some classes and interfaces
+iterable -> collection ->List
+                       ->Queue
+                       ->set
+
+These contain some inbuild data structure which we need to implement by using classes.
+
+These collection provides some methods
+add()
+size()
+remove()
+iterate()
+addAll()
+removeAll()
+clear()
+
+
+There are various interfaces and their classes
+1. List ->a) ArrayList  b)LinkedList  c)Vector <- stack
+
+2. Queue -> a) PriorityQuese b) LinkedList c)Deque(Double ended queue) <- ArrayDeque
+
+3. Set -> a) HashSet b)Linkedlist c)SortedSet <-TreeSet
+
+4. Map -> a)HashMap b)LinkedHashMap c) SortedMap <-TreeMap d)HashTable

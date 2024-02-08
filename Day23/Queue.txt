@@ -1,0 +1,28 @@
+Queue is a data structure in which things are arrange in a line.
+There are two main components of Queue, Front and rear
+FIFO(first in first out)
+
+there are two deque in queue
+1. Deque = double ended queue
+2. Dequeue = remove from the queue
+
+Operations in Queue
+1. Enque (Add operation)
+2. Dequeue (Remove )
+3. Front (Peek)
+
+we can implement queue with the help of 
+
+1. Array(its more hectic)
+Queue using Array -> fixed size
+add - O(1)
+remove - O(n)
+Front - O(1)
+
+2. Circular queue using Array
+imp - Rear++
+     Rear = (Rear + 1) % size;
+
+3. Implementing queue with the help of linked list
+
+
